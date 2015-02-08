@@ -1,4 +1,4 @@
-# CelticKnotAddon
+# Celtic Knot Addon
 This script generates a Bezier curve Celtic knot based on the selected mesh.
 
 ## Installation
@@ -13,4 +13,5 @@ Download the .py file. In Blender, go to **File->User Preferences->Install From 
 
 ### Special Thanks
 [The best guide available to methodically and nonarbitrarily generating Celtic Knots from 2-dimensional arrangements of vertices and edges](http://www.entrelacs.net/-Celtic-Knotwork-The-ultimate-)
+
 [Blender Artists user elbrujodelatribu, for an excellent example of Bezier curve generation](http://blenderartists.org/forum/archive/index.php/t-325717.html)
